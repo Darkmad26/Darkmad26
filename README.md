@@ -2,7 +2,7 @@
 - 👀 I’m interested in video games
 - 🌱 I’m currently learning computer sciences
 - 💞️ I’m looking to collaborate on my very own game
-- 📫 How to reach me 
+- Stay tuned ;)
 
 <!---
 Darkmad26/Darkmad26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
